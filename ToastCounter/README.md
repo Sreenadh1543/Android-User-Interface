@@ -12,3 +12,5 @@ Concepts to be explored :
 > Using Grid Lines to set Constraints 
 
 > Using resources to manage colors , strings and view attributes.
+
+> Using android studio to create portrait and landscape views
