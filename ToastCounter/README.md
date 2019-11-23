@@ -1,9 +1,11 @@
 # Toast Counter
 
-Description : An application to Increment counter on the screen With a button click and to view a Toast on an other button click .
+Description : 
+
+An application to Increment counter on the screen With a button click and to view a Toast on an other button click .
 
 
-Concepts to be explored :
+Concepts explored :
 
 > Layout Management with actionable button views.
 
