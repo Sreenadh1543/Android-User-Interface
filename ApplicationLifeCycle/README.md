@@ -12,7 +12,7 @@ Concepts to be explored
 Output :
 
 
-![alt text](/utils/output_logging.PNG)
+![alt text](utils/output_logging.PNG)
 
 
 
