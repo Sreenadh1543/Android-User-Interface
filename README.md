@@ -1,6 +1,13 @@
 # android-training
 Place holder for practicing android development concepts
 
+## Application LifeCycle
+
+Concepts to be explored 
+
+> States of an Activity 
+
+> Transitions between the states in an activity with the user action with the application
 
 ## BirthDay Card 
 
