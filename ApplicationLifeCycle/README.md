@@ -18,9 +18,9 @@ Summary or Take away :
 
 > With onResume() ; application will be on fore ground to the user
 
-> When user comes out of the activity with back onPause() onStop() and on Destroy() will be called sequentially resulting activity shut down.
+> When user pushes the activity to back-ground with back onPause() onStop() and on Destroy() will be called sequentially resulting activity shut down.
 
-> When user comes out of the activity with home button Current activity will be pushed to onPause() and onStop() and with further request form the user tha activity can be restarted from OnStart(). 
+> When user pushes the activity to back-ground with home button Current activity will be pushed to onPause() and onStop() and with further request form the user tha activity can be restarted from OnStart(). 
 
 ![alt text](utils/output_logging.PNG)
 
