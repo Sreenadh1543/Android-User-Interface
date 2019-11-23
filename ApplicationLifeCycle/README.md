@@ -9,5 +9,11 @@ Concepts to be explored
 ![alt text](https://miro.medium.com/max/1189/1*fCkVwtp7gJ5JI8gjIxPeTQ.png)
 
 
+Output :
+
+
+![alt text](/utils/output_logging.PNG)
+
+
 
 
