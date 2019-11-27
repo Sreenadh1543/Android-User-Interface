@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UnderstandResources</string>
+    <string name="welcome_message">HelloWorld</string>
+    <string name="BUTTON_1">BUTTON_1</string>
+    <string name="BUTTON_2">BUTTON_2</string>
+    <string name="default_value"><![CDATA[<select>]]></string>
+</resources>
