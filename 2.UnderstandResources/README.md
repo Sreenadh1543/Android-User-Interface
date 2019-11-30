@@ -45,13 +45,13 @@ portrait or landscape orientation .
 
 ###Screenshots for the app Created  
 
-![alt text](utils/landscape_layout.png)
+![alt text](output/landscape_layout.png)
 
-![alt text](utils/potrait_layout.png)
+![alt text](output/potrait_layout.png)
 
-![alt text](utils/Locale_fr.png)
+![alt text](output/Locale_fr.png)
 
-![alt text](utils/layout-german.png)
+![alt text](output/layout-german.png)
 
 
 
