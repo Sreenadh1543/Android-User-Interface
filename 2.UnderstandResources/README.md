@@ -47,8 +47,6 @@ portrait or landscape orientation .
 
 ![alt text](output/landscape_layout.png)
 
-![alt text](output/potrait_layout.png)
-
 ![alt text](output/Locale_fr.png)
 
 ![alt text](output/layout-german.png)
