@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">fr-UnderstandResources</string>
+    <string name="welcome_message">fr-HelloWorld</string>
+    <string name="BUTTON_1">fr-BUTTON_1</string>
+    <string name="BUTTON_2">fr-BUTTON_2</string>
+    <string name="default_value">fr-<![CDATA[<select>]]></string>
+</resources>

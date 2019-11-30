@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Gr-UnderstandResources</string>
+    <string name="welcome_message">Gr-HelloWorld</string>
+    <string name="BUTTON_1">Gr-BUTTON_1</string>
+    <string name="BUTTON_2">Gr-BUTTON_2</string>
+    <string name="default_value">Gr-<![CDATA[<select>]]></string>
+</resources>
