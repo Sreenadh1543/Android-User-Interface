@@ -16,7 +16,7 @@ Concepts to be explored
 
 > Layout Editor - Introduction and usage to create resources from the layout .
 
-
+> Significance of R.java in resource utilisation.
 
 
 Output :

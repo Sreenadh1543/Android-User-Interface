@@ -27,7 +27,9 @@ Concepts to be explored
 
 > Layout Editor - Introduction and usage to create resources from the layout .
 
-> Transitions between the states in an activity with the user action with the application
+> Transitions between the states in an activity with the user action with the application.
+
+> Significance of R.java in resource utilisation.
 
 ## BirthDay Card 
 
