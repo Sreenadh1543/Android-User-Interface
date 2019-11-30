@@ -1,7 +1,7 @@
-# android-training
+# Android-training
 Place holder for practicing android development concepts
 
-## Application LifeCycle
+## 1) Application LifeCycle
 
 > States of an Activity 
 
@@ -9,7 +9,7 @@ Place holder for practicing android development concepts
 
 ![alt text](https://miro.medium.com/max/1189/1*fCkVwtp7gJ5JI8gjIxPeTQ.png)
 
-## Understanding Resources
+## 2) Understanding Resources
 
 Concepts to be explored 
 
