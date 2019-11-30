@@ -3,9 +3,29 @@ Place holder for practicing android development concepts
 
 ## Application LifeCycle
 
+> States of an Activity 
+
+> Transitions between the states in an activity with the user action with the application
+
+![alt text](https://miro.medium.com/max/1189/1*fCkVwtp7gJ5JI8gjIxPeTQ.png)
+
+## Understanding Resources
+
 Concepts to be explored 
 
-> States of an Activity 
+> Various Resource directories and their significance. 
+
+> Qualifiers 
+
+> Using Qualifiers for device and operation specific resources like orientation
+
+> Creation of resource directories using Android Studio
+
+> Locale and language specific content delivery on the application
+
+> Using Emulator to test locale specific configuration 
+
+> Layout Editor - Introduction and usage to create resources from the layout .
 
 > Transitions between the states in an activity with the user action with the application
 
