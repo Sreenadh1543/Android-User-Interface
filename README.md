@@ -34,16 +34,14 @@ Concepts to be explored
 
  ## 3) Projects to explore Linear Layout
 
-```
         **BirthDay Card**
         
         Concepts to be explored 
         
-        > View and View Groups
+                > View and View Groups
         
         **Toast Counter**
         
         Concepts to be explored
         
-        > Layout Management with actionable button views.
-```
+                > Layout Management with actionable button views.
