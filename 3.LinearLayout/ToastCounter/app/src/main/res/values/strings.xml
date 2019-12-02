@@ -3,4 +3,7 @@
     <string name="button_toast">Get Toast</string>
     <string name="button_counter">Increment Counter</string>
     <string name="counter_value">0</string>
+    <string name="Toast">Toast</string>
+    <string name="zero">0</string>
+    <string name="Count">Count</string>
 </resources>
