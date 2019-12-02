@@ -31,14 +31,19 @@ Concepts to be explored
 
 > Significance of R.java in resource utilisation.
 
-## BirthDay Card 
 
-Concepts to be explored 
+ ## Projects to explore Linear Layout
 
-> View and View Groups
-
-## Toast Counter
-
-Concepts to be explored
-
-> Layout Management with actionable button views.
+```
+        ## BirthDay Card 
+        
+        Concepts to be explored 
+        
+        > View and View Groups
+        
+        ## Toast Counter
+        
+        Concepts to be explored
+        
+        > Layout Management with actionable button views.
+```
