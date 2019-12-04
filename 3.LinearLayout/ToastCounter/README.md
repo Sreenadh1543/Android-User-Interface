@@ -21,3 +21,10 @@ An application to Increment counter on the screen With a button click and to vie
 
 > Using blue print to understand view boundaries.
 
+
+###Screenshots for the app Created  
+
+![alt text](output/linear_layout.PNG)
+
+![alt text](output/potrait_layout.PNG)
+

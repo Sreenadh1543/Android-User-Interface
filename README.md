@@ -36,14 +36,16 @@ Concepts to be explored
 
    **BirthDay Card**
         
-   Concepts to be explored 
+   Concepts to be explored:
+   
+   >
         
  
 
         
    **Toast Counter**
         
-   Concepts to be explored
+   Concepts to be explored:
        
    > View and View Groups
       
