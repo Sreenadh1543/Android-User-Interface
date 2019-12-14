@@ -59,10 +59,16 @@ Concepts to be explored
       
    > Using blue print to understand view boundaries.
     
-   ## 4) Projects to explore Table Layout
-   
-      **Review Form*
-           
-      Concepts to be explored:
+ ## 4) Projects to explore Table Layout
+     
+  **ReviewForm :** 
       
-      >
+   Concepts to be covered :
+      
+   >Table Layout to create graphical user Interface.
+     
+   >Understanding cells to arrange views
+      
+   >Rows & columns for positioning the views 
+      
+   >How this layout can be handy for form creation
