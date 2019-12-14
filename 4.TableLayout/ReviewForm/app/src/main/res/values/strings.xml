@@ -3,4 +3,8 @@
     <string name="name">Name :</string>
     <string name="Email_id">Email-id :</string>
     <string name="Phone">Phone:</string>
+    <string name="Submit">submit</string>
+    <string name="autoFill">"Enter Your Name "</string>
+    <string name="autofill_emailId">sample@gmail.com</string>
+    <string name="autoFill_phone">+91</string>
 </resources>
