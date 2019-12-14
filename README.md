@@ -36,12 +36,39 @@ Concepts to be explored
 
    **BirthDay Card**
         
-   Concepts to be explored 
+   Concepts to be explored:
+   
+   >
         
-   > View and View Groups
+ 
+
         
    **Toast Counter**
         
-   Concepts to be explored
+   Concepts to be explored:
        
-   > Layout Management with actionable button views.
+   > View and View Groups
+      
+   >Linear layout to Create graphical user interface.
+      
+   >Using Layout editor to create user interface.
+      
+   >Explore Palette, Component Tree, Design Editor , Tool bar for testing the GUI with resources.
+      
+   >Exploring the properties section in the design editor and using the tool to adjust properties on views.
+      
+   > Using blue print to understand view boundaries.
+    
+ ## 4) Projects to explore Table Layout
+     
+  **ReviewForm :** 
+      
+   Concepts to be covered :
+      
+   >Table Layout to create graphical user Interface.
+     
+   >Understanding cells to arrange views
+      
+   >Rows & columns for positioning the views 
+      
+   >How this layout can be handy for form creation

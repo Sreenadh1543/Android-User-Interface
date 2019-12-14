@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/form_data"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="10dp"
+    android:background="#F1E7EA"
+    android:orientation="vertical"
+    android:padding="25dp"
+    android:paddingStart="25dp"
+    android:paddingLeft="25dp"
+    android:paddingTop="25dp"
+    android:paddingEnd="25dp"
+    android:paddingRight="25dp"
+    android:paddingBottom="25dp">
+
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/name"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <AutoCompleteTextView
+            android:id="@+id/autoCompleteTextView"
+            android:layout_width="244dp"
+            android:layout_height="match_parent"
+            android:hint="@string/name"
+            android:text="@string/autoFill" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/Email_id"
+            android:layout_width="116dp"
+            android:layout_height="match_parent"
+            android:text="@string/Email_id"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/email_id_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autofillHints="@string/autofill_emailId"
+            android:ems="10"
+            android:hint="@string/autofill_emailId"
+            android:inputType="textEmailAddress" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/row_phone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/phone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="@string/Phone"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <EditText
+            android:id="@+id/id_phoneNumber"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:autofillHints="@string/autoFill_phone"
+            android:ems="10"
+            android:inputType="phone" />
+
+    </TableRow>
+
+    <TableRow
+        android:id="@+id/id_ratingbar"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <RatingBar
+            android:id="@+id/ratingBar"
+            style="@style/Widget.AppCompat.RatingBar"
+            android:layout_width="545dp"
+            android:layout_height="match_parent"
+            android:layout_column="1"
+            android:layout_gravity="center"
+            android:foregroundGravity="center" />
+
+    </TableRow>
+
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/id_submit"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_column="1"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="@string/Submit" />
+
+    </TableRow>
+
+</>
