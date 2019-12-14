@@ -4,9 +4,9 @@
 
     <application
         android:allowBackup="true"
-        android:icon="@drawable/ic_countericon"
+        android:icon="@drawable/ic_launcher_background"
         android:label="@string/app_name"
-        android:roundIcon="@drawable/ic_countericon"
+        android:roundIcon="@drawable/ic_launcher_background"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".MainActivity">
