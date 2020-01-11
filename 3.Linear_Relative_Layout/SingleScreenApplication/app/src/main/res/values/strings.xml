@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Greet_Your_Valentine</string>
+    <string name="text">HelloWorld</string>
+    <string name="logo_description">Company Logo</string>
+</resources>
