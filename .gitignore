@@ -1,2 +1,11 @@
 *.iml
 /.idea
+5.GridLayout/.idea
+gradle
+.gradle/
+gradlew
+gradlew.bat
+local.properties
+*/.idea/
+git
+master
