@@ -10,3 +10,9 @@ Concept to be explored :
 
 * Concept being relative to siblings and relative to the parent is explored.
 
+
+## Screenshots for app
+
+![altText](appView/portratit.JPG)![altText](appView/landscape.JPG)
+
+
