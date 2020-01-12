@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ClickEvent</string>
+    <string name="title">EventHandling</string>
+    <string name="button_1">BUTTON1</string>
+    <string name="button2">BUTTON2</string>
+    <string name="Clear">CLEAR</string>
+</resources>
