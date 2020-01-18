@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExplicitEvents</string>
+    <string name="textHint">Enter Your Name</string>
+</resources>

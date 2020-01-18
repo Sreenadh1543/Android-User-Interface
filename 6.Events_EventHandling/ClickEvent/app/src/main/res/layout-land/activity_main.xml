@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="30dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
+        android:text="@string/title"
+        android:textColor="#132DB9"
+        android:textSize="36sp" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="245dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-83dp"
+        android:text="@string/button_1" />
+
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="176dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/button1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-73dp"
+        android:onClick="clickButtonTwo"
+        android:text="@string/button2" />
+
+    <TextView
+        android:id="@+id/button_clicked"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/button2"
+        android:layout_marginBottom="-45dp"
+        android:textAlignment="center"
+        android:textSize="24sp" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="236dp"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/button_clicked"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="-69dp"
+        android:onClick="clear"
+        android:text="@string/Clear" />
+
+
+</RelativeLayout>
